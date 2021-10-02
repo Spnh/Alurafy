@@ -123,6 +123,7 @@ body {
   width: 160px;
   margin: 20px auto;
   box-shadow: 10px 5px 5px black;
+  transform: scale(1.2);
 
 }
 
@@ -144,6 +145,7 @@ body {
   background-color: #212121;
   border-radius: 60px;
   padding-bottom: 40px;
+  transition: 0.5s;
 }
 
   #cabecalho{
